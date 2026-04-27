@@ -5,7 +5,7 @@ Mirai 不仅是一套功能完备的 **Typecho 商业主题**，更是一站式"
 
 **主题演示站：[https://mirai.sukuy.com](https://mirai.sukuy.com "https://mirai.sukuy.com")**
 
-**主题介绍：[https://www.sukuy.com/mirai-theme](https://www.sukuy.com/mirai-theme**
+**主题介绍：[https://www.sukuy.com/mirai-theme](https://www.sukuy.com/mirai-theme)**
 
 **作者微信：Sakura1086**
 
